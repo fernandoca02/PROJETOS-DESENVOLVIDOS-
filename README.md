@@ -10,3 +10,5 @@ https://scratch.mit.edu/projects/985464624
 
 ## PROJETOS p5.js 🎧
 https://editor.p5js.org/adnaref02/sketches/93tFgqfvR
+
+## CURRÍCULO
